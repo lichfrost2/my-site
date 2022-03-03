@@ -1,0 +1,34 @@
+body {
+  background-color: #EAF6F6;
+}
+
+h1 {
+color: #66BFBF
+}
+
+h3 {
+color: #66BFBF
+}
+
+th {
+color: #66BFBF
+}
+em {
+color: #A1CCA5
+}
+li {
+color: #A1CCA5
+}
+p {
+color: #A1CCA5
+}
+tr {
+color: #A1CCA5
+}
+hr {
+border-style: none;
+border-top-style: dotted;
+border-color: white;
+border-width: 6px;
+width: 10%;
+}
